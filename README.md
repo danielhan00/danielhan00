@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm a Full Stack Engineer with a passion for creating! I am interested in all things tech and music, and I especially love bridging the world between Art and Technology.
 
 <!--
 **danielhan60903/danielhan60903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
